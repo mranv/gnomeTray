@@ -1,0 +1,4 @@
+data/com.atcults.Tray.desktop.in
+data/com.atcults.Tray.metainfo.xml.in
+data/com.atcults.Tray.gschema.xml
+src/window.ui
